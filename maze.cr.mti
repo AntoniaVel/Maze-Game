@@ -1,0 +1,22 @@
+C:/Users/anton/Desktop/maze.vhd {1 {vcom -work work -2002 -explicit C:/Users/anton/Desktop/maze.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity maze
+-- Compiling architecture bhv of maze
+
+} {} {}} C:/Users/anton/Desktop/ROM.vhd {1 {vcom -work work -2002 -explicit C:/Users/anton/Desktop/ROM.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity rom
+-- Compiling architecture RTL of rom
+
+} {} {}}
